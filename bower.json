@@ -17,6 +17,6 @@
   ],
   "dependencies": {
     "angular": "~1.4.0",
-    "raty": "master"
+    "raty": "v3.0.0"
   }
 }
